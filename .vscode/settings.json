@@ -5,5 +5,8 @@
   },
   "[svelte]": {
     "editor.tabSize": 2
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "src/lib/i18n"
+  ]
 }
