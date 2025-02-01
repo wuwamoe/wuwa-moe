@@ -1,6 +1,8 @@
 <script lang="ts">
-	import '../app.css';
-	let { children } = $props();
+  import { Toaster } from 'svelte-5-french-toast';
+  import '../app.css';
+  let { children } = $props();
 </script>
 
-{@render children()}
+<Toaster />
+{@render children?.()}

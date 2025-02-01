@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package com.wumadevs;
+
+option java_package = "com.wumadevs";
+option java_multiple_files = true;
+
+message ItemDto {
+  string attributes_description = 1;
+  string bg_description = 2;
+  bool destructible = 3;
+  string icon = 4;
+  int32 id = 5;
+  bool is_buff_item = 6;
+  repeated string item_access = 7;
+  int32 item_buff_type = 8;
+  int32 item_type = 9;
+  int32 main_type_id = 10;
+  int32 max_capcity = 11;
+  int32 max_stackable_num = 12;
+  string name = 13;
+  int32 num_limit = 14;
+  int32 quality_id = 15;
+  bool show_in_bag = 16;
+  repeated string show_types = 17;
+  int32 sort_index = 18;
+  bool special_item = 19;
+  bool ui_play_item = 20;
+  int32 use_count_limit = 21;
+  int32 use_level = 22;
+}

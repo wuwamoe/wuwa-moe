@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package com.wumadevs;
+
+option java_package = "com.wumadevs";
+option java_multiple_files = true;
+
+message ItemMinDto {
+  int32 id = 1;
+  string icon = 2;
+  int32 main_type_id = 3;
+  string name = 4;
+  int32 quality_id = 5;
+  repeated string show_types = 6;
+}
+
+message ItemListDto {
+  repeated ItemMinDto list = 1;
+}

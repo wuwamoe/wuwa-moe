@@ -1,0 +1,744 @@
+
+dA/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_AccountExp_UI"연각 경험치(2	경험치
+^:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_hsb_UI"클램 코인(2통용 화폐
+_;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_zcpq_UI"별의 소리(2고급 화폐
+X;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"달빛(2고급 화폐
+j:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yml_UI"결정 웨이브 플레이트(2	소모품
+]�T:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_mlf_UI"결정 용제(2	소모품
+�ε�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1102_UI"!산화의 울림 주파수 대역(2울림 주파수 대역
+�ϵ�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1103_UI"!설지의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1202_UI"!치샤의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1203_UI"!앙코의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1402_UI"!양양의 울림 주파수 대역(2울림 주파수 대역
+�߸�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1503_UI"$벨리나의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1601_UI"!도기의 울림 주파수 대역(2울림 주파수 대역
+�¹�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1602_UI"!단근의 울림 주파수 대역(2울림 주파수 대역
+z���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_002_1_UI"신비한 암호(2공명자 돌파 재료
+z���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_004_1_UI"분쟁의 성핵(2공명자 돌파 재료
+z���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_001_1_UI"번개의 성핵(2공명자 돌파 재료
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_006_UI"애가의 성핵(2공명자 돌파 재료
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_008_UI"분노의 성핵(2공명자 돌파 재료
+����B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_011_UI"울부짖는 바위주먹(2공명자 돌파 재료
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_010_UI"파괴의 깃털(2공명자 돌파 재료
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_007_UI"음향의 성핵(2공명자 돌파 재료
+|���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_009_UI"악의 이종 성핵(2공명자 돌파 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_1_UI"저주파수 의음 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_2_UI"중주파수 의음 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_3_UI"고주파수 의음 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_4_UI"전주파수 의음 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_1_UI"저주파수 포효 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_2_UI"중주파수 포효 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_3_UI"고주파수 포효 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_4_UI"전주파수 포효 성핵(2무기 및 스킬 재료
+����D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_1_UI"소박한 구속팔찌(2무기 및 스킬 재료
+~���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_2_UI"보통 구속팔찌(2무기 및 스킬 재료
+~���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_3_UI"개량 구속팔찌(2무기 및 스킬 재료
+~���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_4_UI"특제 구속팔찌(2무기 및 스킬 재료
+z���@/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_001_UI"속박의 마스크(2무기 및 스킬 재료
+z���@/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_002_UI"침식의 마스크(2무기 및 스킬 재료
+z���@/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_003_UI"왜곡의 마스크(2무기 및 스킬 재료
+z���@/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_004_UI"광기의 마스크(2무기 및 스킬 재료
+}���D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_003_1_UI"비문 고종(2스킬 업그레이드 재료
+~���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_005_UI"파도의 장창(2스킬 업그레이드 재료
+����B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_014_UI"끊임없는 파괴(2스킬 업그레이드 재료
+~���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_013_UI"무망의 깃털(2스킬 업그레이드 재료
+e�ʉ@/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Com_002_1_UI"활력 음료(2	의약품
+k�ʉ@/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Com_003_1_UI"단량체 회복제(2	의약품
+\��>/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Sep_021_UI"	연자육(2약재
+k��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_23A_UI"목련(2	식재료2약재
+g��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_33A_UI"붓꽃(2돌파 재료
+h��?/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_HuiYanGu_UI"검은 연꽃(2돌파 재료
+g��B/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_denglongguo_UI"	등롱초(2돌파 재료
+j��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_18A_UI"	공작화(2돌파 재료
+m��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_29A_UI"개양귀비(2돌파 재료
+m��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_30A_UI"구름버섯(2돌파 재료
+m��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_31A_UI"인동국화(2돌파 재료
+j��>/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Sep_061_UI"보라색 산호(2돌파 재료
+q��E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_32A_UI"비터베리(2	식재료2약재
+c��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_028_UI"작령 열매(2돌파 재료
+x���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_06A_UI"여우구슬(2	식재료2약재2	소모품
+j���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"	감로꽃(2약재2	소모품
+m���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_09A_UI"베리민트(2	식재료2약재
+j���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_10A_UI"	원앙화(2	식재료2약재
+j���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01B_UI"	자소엽(2	식재료2약재
+j���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_07A_UI"	청분초(2	식재료2약재
+p���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_25A_UI"라임그라스(2	식재료2약재
+b���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_fuguyoulan_UI"유령난초(2약재
+_ʳ�A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI"	등불꽃(2약재
+[Գ�=/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_yuezao_UI"	달수초(2약재
+^޳�@/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Com_004_1_UI"마름(2	식재료
+c賖A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_26A_UI"푸른 조개(2약재
+i�A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_27A_UI"빗소리 달팽이(2약재
+_���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_24A_UI"	제비꽃(2약재
+b���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_12A_UI"절벽선녀(2약재
+m���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_13A_UI"우산버섯(2	식재료2약재
+e���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_14A_UI"드래곤베리(2약재
+m���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_15A_UI"화고버섯(2	식재료2약재
+c���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_28A_UI"형광 선퇴(2약재
+b��A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_29A_UI"	새고기(2	식재료
+\��A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_30A_UI"깃털(2약재
+b��>/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Sep_071_UI"짐승고기(2	식재료
+[��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_025_UI"호랑나비(2약재
+[��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_027_UI"붉은나비(2약재
+[��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_026_UI"푸른나비(2약재
+g��@/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_yechiling_UI"잎날개잠자리(2약재
+f��B/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_jinhuanting_UI"금환잠자리(2약재
+d��</Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_yurou_UI"생선 살코기(2	식재료
+^��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_020_UI"은환도마뱀(2약재
+d��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_021_UI"푸른가시도마뱀(2약재
+a��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_022_UI"대나무도마뱀(2약재
+d��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_023_UI"검은무늬개구리(2약재
+^��:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_024_UI"금등개구리(2약재
+v���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_22A_UI"홍침수정원석(2무기 제작 재료
+m���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_21A_UI"	반디석(2무기 제작 재료
+s���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_20A_UI"자수정원석(2무기 제작 재료
+m���A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_19A_UI"	목화석(2무기 제작 재료
+\ʌ�>/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_niaodan_UI"새알(2	식재료
+�я�@/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_1_UI"초급 공명 촉진제(2공명자 경험치 재료
+�ҏ�@/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_2_UI"중급 공명 촉진제(2공명자 경험치 재료
+�ӏ�@/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_3_UI"고급 공명 촉진제(2공명자 경험치 재료
+�ԏ�@/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_4_UI"특급 공명 촉진제(2공명자 경험치 재료
+}���@/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Exp_1_UI"초급 에너지 코어(2무기 경험치 재료
+}���@/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Exp_2_UI"중급 에너지 코어(2무기 경험치 재료
+}���@/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Exp_3_UI"고급 에너지 코어(2무기 경험치 재료
+}���@/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Exp_4_UI"특급 에너지 코어(2무기 경험치 재료
+����G/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_1_UI"비활성 금속 액적(2무기 및 스킬 재료
+����G/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_2_UI"활성 금속 액적(2무기 및 스킬 재료
+����G/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_3_UI"분극 금속 액적(2무기 및 스킬 재료
+����G/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_4_UI"이성질화 금속 액적(2무기 및 스킬 재료
+~���=/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_01_UI"헤테로 결정화 연소(2무기 및 스킬 재료
+~���=/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_02_UI"조추출 결정화 연소(2무기 및 스킬 재료
+{���=/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_03_UI"정류 결정화 연소(2무기 및 스킬 재료
+~���=/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_04_UI"고순도 결정화 연소(2무기 및 스킬 재료
+u���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_005_UI"렌토 와전류(2무기 및 스킬 재료
+{���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_006_UI"아다지오 와전류(2무기 및 스킬 재료
+x���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_007_UI"안단테 와전류(2무기 및 스킬 재료
+{���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_008_UI"프레스토 와전류(2무기 및 스킬 재료
+����>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_009_UI"비명 이상 키메라 210(2무기 및 스킬 재료
+����>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_010_UI"비명 이상 키메라 226(2무기 및 스킬 재료
+����>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_011_UI"비명 이상 키메라 235(2무기 및 스킬 재료
+����>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_012_UI"비명 이상 키메라 239(2무기 및 스킬 재료
+u���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_013_UI"음률의 배주(2무기 및 스킬 재료
+u���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_014_UI"음률의 새싹(2무기 및 스킬 재료
+u���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_015_UI"음률의 새잎(2무기 및 스킬 재료
+x���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_016_UI"음률의 꽃망울(2무기 및 스킬 재료
+����A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_014_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2재료
+����A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_015_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2재료
+����A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_016_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2재료
+����A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_017_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2재료
+����A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_018_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2재료
+p���A/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_4_UI"나무무늬 조각(2특수 화폐
+����A/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_6_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2특수 화폐
+lц;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_qpmy_UI"회오리의 무늬(2튜닝 증명서
+p҆;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_jzmy_UI"금빛 파도의 무늬(2튜닝 증명서
+mӆ;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_czsh_UI"잔진의 산호(2튜닝 교환 화폐
+mԆ;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_ybsh_UI"여파의 산호(2튜닝 교환 화폐
+rۆ</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yk_03_UI"달빛 관측 카드(2달빛 관측 증명
+r܆</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yk_03_UI"달빛 관측 카드(2달빛 관측 증명
+m���!>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_018_UI"에너지 방출 부품(2	소모품
+b��>/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_006_UI"사운드박스(2재료
+i���*@/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_5_UI"공명자 경험치(2	경험치
+s���9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_10_UI"초급 비밀음파 통(2에코 육성 재료
+s���9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_11_UI"중급 비밀음파 통(2에코 육성 재료
+s���9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_12_UI"고급 비밀음파 통(2에코 육성 재료
+s���9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_13_UI"특급 비밀음파 통(2에코 육성 재료
+����!A/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_014_UI"!특수한 심볼이 있는 단검(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_002_1_UI"『신동춘서전·Ⅰ』(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_022_UI"흡열 장치(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_023_UI"방음 장치(2임무 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_002_4_UI"사진: 서운와 정련 공장(2임무 아이템
+���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_002_4_UI"사진: 서운와 광산(2임무 아이템
+���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_002_4_UI"사진: 서운와 항구(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_002_1_UI"#『왼손잡이 조작 가이드』(2임무 아이템
+m���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_26A_UI"수질 샘플(2임무 아이템
+m���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_15A_UI"토양 샘플(2임무 아이템
+j���!>/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_niaodan_UI"생물 샘플(2임무 아이템
+s���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI"잠긴 박스(2임무 아이템
+w���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"가평의 일기(2임무 아이템
+v���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI"경여의 보수(2임무 아이템
+s���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_012_1_UI"금속 열쇠(2임무 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"무음구역 지질 데이터(2임무 아이템
+{���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_004_1_UI"활성 흑석 샘플(2임무 아이템
+p���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_1_UI"	배송함(2임무 아이템
+p���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_2_UI"	배송함(2임무 아이템
+p���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"	배송함(2임무 아이템
+�э�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"암흑 밀림 생태조사 Ⅰ(2울림 조각
+�ҍ�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"암흑 밀림 생태조사 Ⅱ(2울림 조각
+�Ӎ�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"암흑 밀림 생태조사 Ⅲ(2울림 조각
+�ԍ�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"암흑 밀림 생태조사 Ⅳ(2울림 조각
+�Ս�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"암흑 밀림 생태조사 Ⅴ(2울림 조각
+�֍�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"$암흑 밀림 생태조사 총결산(2울림 조각
+h��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_001_UI"금주 꼬치구이(2요리
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_002_UI"	화덕빵(2요리
+d��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_003_UI"자소엽무침(2요리
+k��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_004_UI"고추기름 닭무침(2요리
+u���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"금주 꼬치구이 레시피(2	레시피
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"화덕빵 레시피(2	레시피
+q���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"자소엽무침 레시피(2	레시피
+x���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI" 고추기름 닭무침 레시피(2	레시피
+y���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A01_UI"샤브샤브 베이스(2	가공품2	식재료
+m���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A02_UI"
+맑은 탕(2	가공품2	식재료
+i���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A03_UI"간수(2	가공품2	식재료
+l���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A15_UI"	당초즙(2	가공품2	식재료
+[�Ҕ&:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_hgd_UI"	호감도(2	호감도
+[�Ҕ&:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_hgd_UI"	호감도(2	호감도
+[�Ҕ&:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_hgd_UI"	호감도(2	호감도
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_005_UI"용수염 사탕(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_006_UI"전투식량(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_007_UI"매일 녹차(2요리
+d��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_008_UI"솔티밀크티(2요리
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_009_UI"	청분차(2요리
+i��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_010_UI"서운 비법 냉차(2요리
+i��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_011_UI"특제 소스 찜닭(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_012_UI"매운 편육(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_013_UI"용띠찐빵(2요리
+g��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_014_UI"철삽화고버섯(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_015_UI"금주 잡찜(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_016_UI"마름맛탕(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_017_UI"계란과자(2요리
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_018_UI"황금 볶음밥(2요리
+d��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_019_UI"라임고기찜(2요리
+g��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_020_UI"청분약선어탕(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_021_UI"청향칡죽(2요리
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_022_UI"	별튀김(2요리
+g��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_023_UI"마름참새볶음(2요리
+d��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_024_UI"동운마름죽(2요리
+d��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_025_UI"비둘기구이(2요리
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_026_UI"금주 마라탕(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_027_UI"탕수잉어(2요리
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_028_UI"	탕수육(2요리
+h��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_029_UI"매운 두부조림(2요리
+k��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_030_UI"소고기 버섯전골(2요리
+a��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_031_UI"냥더우푸(2요리
+r���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"용수염 사탕 레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"전투식량 레시피(2	레시피
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"매일 녹차 레시피(2	레시피
+q���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"솔티밀크티 레시피(2	레시피
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"청분차 레시피(2	레시피
+v���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"서운 비법 냉차 레시피(2	레시피
+v���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"특제 소스 찜닭 레시피(2	레시피
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"매운 편육 레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"용띠찐빵 레시피(2	레시피
+t���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"화고버섯볶음 레시피(2	레시피
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"금주 잡찜 레시피(2	레시피
+m���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"마름맛탕레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"계란과자 레시피(2	레시피
+r���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"황금 볶음밥 레시피(2	레시피
+q���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"라임고기찜 레시피(2	레시피
+t���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"청분약선어탕 레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"청향칡죽 레시피(2	레시피
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"별튀김 레시피(2	레시피
+t���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"마름참새볶음 레시피(2	레시피
+q���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"동운마름죽 레시피(2	레시피
+q���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"비둘기구이 레시피(2	레시피
+r���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"금주 마라탕 레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"탕수잉어 레시피(2	레시피
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"탕수육 레시피(2	레시피
+u���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"매운 두부조림 레시피(2	레시피
+x���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI" 소고기 버섯전골 레시피(2	레시피
+n���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"냥더우푸 레시피(2	레시피
+i���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A04_UI"두부(2	가공품2	식재료
+�ܸ�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1500_UI",방랑자·회절의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1403_UI"!알토의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1404_UI"!기염의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1204_UI"'모르테피의 울림 주파수 대역(2울림 주파수 대역
+�ù�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1614_UI"'카멜리아의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1301_UI"$카카루의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1302_UI"!음림의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1303_UI"!연무의 울림 주파수 대역(2울림 주파수 대역
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"$전쟁터 기록 6010: 이젠 가을(2울림 조각
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI",전쟁터 기록 6010: 91.7 고지 쟁탈전(2울림 조각
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI" 전쟁터 기록 6010: 재정비(2울림 조각
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI" 전쟁터 기록 6010: 재출발(2울림 조각
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"1전쟁터 기록 6010: 정말 마지막일 수도(2울림 조각
+z���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI"대충 만든 성료(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"$까부는 원숭이가 그린 지도(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_014_1_UI"이상한 모양의 열쇠(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_016_1_UI"녹이 슨 데이터 카드(2임무 아이템
+s���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI"특별한 등불꽃(2임무 아이템
+x���!D/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_1_UI"「신선한」성핵(2임무 아이템
+w���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_12A_UI"절벽선녀 한 그루(2임무 아이템
+s���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_12A_UI"구조팀의 휘장(2임무 아이템
+s���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"특별한 감로꽃(2임무 아이템
+q���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"반 쪽의 옥패(2임무 아이템
+i���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"	기관함(2임무 아이템
+p���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"감로의 일기(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_002_1_UI"치샤 아버지의 일기(2임무 아이템
+s���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_006_1_UI"낡은 상자(2임무 아이템
+u���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_006_1_UI"추방자무기(2임무 아이템
+q���!;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"직정의 데이터 칩(2임무 아이템
+����!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"$수상한 오디오를 만든 성료(2임무 아이템
+p���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"경설의 원고(2임무 아이템
+����!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI" 『열화의 대지』의 일부(2임무 아이템
+l���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"풍경사진(2임무 아이템
+y���!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"아솔스의 터치패드(2임무 아이템
+z���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_019_1_UI"빙원 명예 훈장(2임무 아이템
+����!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_08A_UI"$분석되지 않은 데이터 소스(2임무 아이템
+y���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_011_1_UI"만능 공구박스(2임무 아이템
+v���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_017_1_UI"음파 포착기(2임무 아이템
+o���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_018_1_UI"	녹음기(2임무 아이템
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_035_UI"실패한 요리(2요리
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A05_UI"	밀가루(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A06_UI"식용기름(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A07_UI"고추(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A08_UI"설탕(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A09_UI"찻잎(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A10_UI"우유(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A11_UI"쌀(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A12_UI"	칡뿌리(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A13_UI"소금(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A14_UI"콩(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A15_UI"식초(2	식재료2]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다
+Wd9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_sw_UI"	영향력(2	영향력
+We9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_sw_UI"	영향력(2	영향력
+Wf9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_sw_UI"	영향력(2	영향력
+Wg9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_sw_UI"	영향력(2	영향력
+a</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_zl_01_UI"방송국경험치(2	경험치
+l݆;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"유니버스 채널(2선약 방송국
+vކ;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"유니버스 스페셜 채널(2선약 방송국
+}߆;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"$유니버스 스페셜 채널 승급(2선약 방송국
+q��</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_zl_02_UI"유니버스 채널 키(2선약 방송국
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"잃어버린 열쇠(2스테이지 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"남아 있는 열쇠(2스테이지 아이템
+i�!:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_mlf_UI"잔음의 여운(2임무 아이템
+�É�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_002_4_UI"설운두루미의 사진(2임무 아이템
+~ĉ�!H/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020011_UI"목재 훈련용 칼날(2임무 아이템
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2&합성 완제품 - 플레이 아이템
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2&합성 완제품 - 플레이 아이템
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2&합성 완제품 - 플레이 아이템
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+����&H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2합성 완제품 - 약제
+|���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"시간 주석·구십일(2울림 조각
+|���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"시간 주석·구십이(2울림 조각
+|���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"시간 주석·구십삼(2울림 조각
+|���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"시간 주석·구십사(2울림 조각
+|���!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"시간 주석·구십오(2울림 조각
+�ŉ�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_006_1_UI"$재래식 방법으로 만든 조석(2임무 아이템
+wᏴ!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"낡은 소책자(2임무 아이템
+eƉ�!:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_pad_UI"생존법전(2임무 아이템
+�ǉ�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"!교룡 패거리의 택배 상자(2임무 아이템
+]�T:/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_mlf_UI"	메모기(2탐색 도구
+sȉ�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_006_1_UI"흑석 광석(2임무 아이템
+�е�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1104_UI"!능양의 울림 주파수 대역(2울림 주파수 대역
+�ɉ�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"/『꿈속의 노래 삼단·석엽의 눈물』(2임무 아이템
+vʉ�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_014_1_UI"드랍한 열쇠(2임무 아이템
+vˉ�!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI"결정화된 나뭇잎(2임무 아이템
+w̉�!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"저사의 노트(2임무 아이템
+z͉�!H/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon20002001_UI"잃어버린 무기(2임무 아이템
+m���&E/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Skup_006_4_UI"콤비 회복제(2	소모품
+t⏴!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_024_UI"낡은 약필화(2임무 아이템
+v㏴!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_025_UI"드라이플라워(2임무 아이템
+�䏴!;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+�Ή�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_020_1_UI"하늘의 노래의 일부(2임무 아이템
+�叴!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"전력 시스템 주의사항(2임무 아이템
+�ꏴ!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_011_1_UI"잔상 소환기 수리 도구(2임무 아이템
+돴!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_051_UI"녹이 슨 데이터 카드(2임무 아이템
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_012_UI"벼락의 성핵(2공명자 돌파 재료
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+�Ѳ�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_013_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+qω�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_059_UI"길상 방울(2임무 아이템
+�Љ�!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_12A_UI"/매화 기둥을 만드는 데 필요한 목재(2임무 아이템
+yщ�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_002_1_UI"능양의 그림책(2임무 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+����!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_019_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+����!A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+xʋ�;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"D12547호 특별 행동 일지(2임무 아이템
+pˋ�A/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI"부서진 족쇄(2임무 아이템
+b҉�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_025_UI(2임무 아이템
+bӉ�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_025_UI(2임무 아이템
+����A/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_6_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2에코 육성 재료
+^	B/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_01_UI"	활약도(2	활약도
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2스테이지 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_2_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2스테이지 아이템
+����!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2스테이지 아이템
+i���G/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_001_1_UI"강화 부품(2재료
+g���>/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Ele_UI"에코 주파수 칩(2재료
+���!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+����A/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_6_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2에코 육성 재료
+~Ҳ�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_060_UI"임시 소대 기념사진(2임무 아이템
+~Ӳ�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_060_UI"임시 소대 기념사진(2임무 아이템
+�̋�B/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_denglongguo_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+�͋�@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A09_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+�΋�G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+x���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_045_UI"로봇 예비 부품(2임무 아이템
+x���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_046_UI"로봇 배터리 팩(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_047_UI"로봇 엔진(2임무 아이템
+~���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_044_UI"운전자의 녹음 카드(2임무 아이템
+w္!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_029_UI"3D 센싱 카메라(2임무 아이템
+�ϋ�;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+{�</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_zl_03_UI"!유니버스 스페셜 채널 키(2선약 방송국
+�Ћ�@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_021_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2임무 아이템
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_048_UI"봉오리 폭탄(2임무 아이템
+`�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_04_UI"임시 비콘(2탐색 도구
+f�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_02_UI"사운드 탐사기(2탐색 도구
+c�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_03_UI"보물 탐사기(2탐색 도구
+v�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_06_UI"'사운드 탐사기 허가증 · 금주(2	소모품
+s�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_07_UI"$보물 탐사기 허가증 · 금주(2	소모품
+_�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_08_UI"사운드 부품(2	소모품
+c�T9/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_09_UI"비콘 핵심 모듈(2	소모품
+m���=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_txq_01_UI"초급 튜너(2에코 육성 재료
+n���=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_txq_01_UI"중급  튜너(2에코 육성 재료
+m���=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_txq_02_UI"고급 튜너(2에코 육성 재료
+m���=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_txq_03_UI"특급 튜너(2에코 육성 재료
+mԉ�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_057_UI"	종령자(2임무 아이템
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+����G/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI"]오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다(2랜덤 에코 아이템2보급 패키지
+{���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_066_UI"해변 격투 출입증(2임무 아이템
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_064_UI"용기의 휘장(2임무 아이템
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_063_UI"속도의 휘장(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_065_UI"힘의 휘장(2임무 아이템
+����&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"사운드 부품 합성법(2합성 배합법 - 구조
+����&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"비콘 핵심 모듈 합성법(2합성 배합법 - 구조
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1405_UI"!감심의 울림 주파수 대역(2울림 주파수 대역
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_01_UI"Lv.10 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_02_UI"Lv.20 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_03_UI"Lv.30 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_04_UI"Lv.40 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_05_UI"Lv.50 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_06_UI"Lv.60 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_07_UI"Lv.65 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_08_UI"Lv.70 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_09_UI"Lv.75 특별 보급 패키지(2보급 패키지
+����J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_10_UI"Lv.80 특별 보급 패키지(2보급 패키지
+x‹!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_041_UI"초음파 펄스 칩(2임무 아이템
+�뀹!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_016_1_UI"D천흠의 노랫소리를 저장하고 있는 오디오 플레이어(2임무 아이템
+r
+?/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_GourdExp_UI" 데이터 스테이션 경험치(2	활약도
+����E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_027_UI"/『1호 장치 타워 - 점검 기록 로그』(2임무 아이템
+���E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_027_UI"/『2호 장치 타워 - 점검 기록 로그』(2임무 아이템
+���E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_027_UI"!보내지지 않은 전자 통신(2임무 아이템
+z���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_043_UI"유도 결정핵(2스테이지 아이템
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_07_UI"$완전체가 아닌 야밤의 서리(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_08_UI"'완전체가 아닌 솟구치는 용암(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_09_UI"*완전체가 아닌 울려퍼지는 뇌음(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_10_UI"'완전체가 아닌 스쳐가는 바람(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_06_UI"!완전체가 아닌 빛나는 별(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_05_UI"(완전체가 아닌 빛을 삼키는 해(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_11_UI"$완전체가 아닌 찬란한 광휘(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_12_UI"'완전체가 아닌 떠오르는 구름(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_13_UI"'완전체가 아닌 끊임없는 잔향(2랜덤 에코 아이템2보급 패키지
+{���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_028_UI"금주 해돋이 사진(2임무 아이템
+x쏴!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_053_UI"피로 물든 사진(2임무 아이템
+~폴!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_053_UI"흠집이 가득한 사진(2임무 아이템
+�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_053_UI"새것처럼 깨끗한 사진(2임무 아이템
+y�</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yk_01_UI"달빛 관측 카드 (7일)(2달빛 관측 증명
+z�</Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yk_02_UI"달빛 관측 카드 (15일)(2달빛 관측 증명
+g=/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_B1_UI"연습 데이터집(2특수 화폐
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_02_UI"$완전체가 아닌 노도급 에코(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"$완전체가 아닌 거랑급 에코(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_04_UI"$완전체가 아닌 경파급 에코(2랜덤 에코 아이템2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_003_UI"!유니버스 개척 무기 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_004_UI"선약 초급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_004_UI"선약 중급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_005_UI"선약 고급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_006_UI"선약 특급 물자 상자(2보급 패키지
+a=/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_B2_UI"심경 기록(2특수 화폐
+w���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_055_UI"레코드의 조각(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_056_UI"악보 조각(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_042_UI"#「황룡 아카이브」 노선도(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_039_UI" 파손된 「왼쪽」 나무패(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_040_UI"#파손된 「오른쪽」 나무패(2임무 아이템
+w���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_038_UI"완전한 나무패(2임무 아이템
+j���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_031_UI"일기(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_026_UI"검은 열매(2임무 아이템
+p���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_026_UI"망고스틴(2임무 아이템
+m���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_050_UI"	나뭇잎(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_050_UI"8「비명 이상 현상」의 영향을 받은 나뭇잎(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_035_UI"소형 장치(2임무 아이템
+m���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_036_UI"	해시계(2임무 아이템
+w���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_037_UI"해제된 해시계(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_030_UI"캡슐 사탕(2임무 아이템
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_030_UI"캡슐 사탕(2임무 아이템
+r���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_067_UI"사탕 한 알(2임무 아이템
+x���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"『파일: 잔상』(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"#『파일: 금주화서연구원』(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"6『파일: 캡슐 사탕 백신과 잔상류 전투』(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"0『파일: 금주 제1호 공명자 보고서』(2임무 아이템
+�Ĺ�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1700_UI",방랑자·인멸의 울림 주파수 대역(2울림 주파수 대역
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_005_UI"선약 명함 보급 패키지(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_003_UI"%은행나무·공진 보급 패키지(2보급 패키지
+sՆ>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_jzmy_01_UI"울린 조수의 무늬(2튜닝 증명서
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_061_UI"낡은 약필화(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_049_UI"기이한 모양의 검은 꽃(2임무 아이템
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"&원·프로젝트 무기 보급 상자(2보급 패키지
+l���C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_040_UI"제식 무기 주형(2재료
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_034_UI"	복운차(2요리
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"복운차 레시피(2	레시피
+q��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_14_UI"고기 야채 꼬치구이(2요리
+g��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_01_UI"얼음 자소엽(2요리
+n��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_08_UI"운봉 용수염 사탕(2요리
+g��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_12_UI"에너지 쿠키(2요리
+`��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_13_UI"	삼청차(2요리
+c��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_10_UI"용띠푸딩(2요리
+g��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_02_UI"어제의 금주(2요리
+m��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_03_UI"달콤달콤 수플레(2요리
+j��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_11_UI"빛나는 볶음밥(2요리
+f��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_09_UI"도화꽃잎죽(2요리
+c��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_16_UI"음메쿠키(2요리
+n��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_15_UI"금은 연자육 수프(2요리
+t��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_07_UI"과일나무 훈제 비둘기(2요리
+j��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_04_UI"챔피언 마라탕(2요리
+c��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_06_UI"버섯전골(2요리
+`��&B/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_05_UI"	안개차(2요리
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_001_UI"용융 보호 스프레이(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_006_UI"기류 보호 스프레이(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_005_UI"전도 보호 스프레이(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_004_UI"응결 보호 스프레이(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_002_UI"회절 보호 스프레이(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_003_UI"인멸 보호 스프레이(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_007_UI"용융 이중 결합제(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_012_UI"기류 이중 결합제(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_011_UI"전도 이중 결합제(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_010_UI"응결 이중 결합제(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_008_UI"회절 이중 결합제(2	의약품
+r�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_009_UI"인멸 이중 결합제(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_013_UI"초급 흡입식 소생제(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_014_UI"중급 흡입식 소생제(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_015_UI"고급 흡입식 소생제(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_016_UI"특급 흡입식 소생제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_017_UI"초급 영양제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_018_UI"중급 영양제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_019_UI"고급 영양제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_020_UI"특급 영양제(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_021_UI"초급 에너지 주머니(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_022_UI"중급 에너지 주머니(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_023_UI"고급 에너지 주머니(2	의약품
+u�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_024_UI"특급 에너지 주머니(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_025_UI"초음속 용제(2	의약품
+n�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_026_UI"트레이너 용제(2	의약품
+h�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_027_UI"현악 용제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_028_UI"드러머 용제(2	의약품
+j�ʉ@/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Com_002_1_UI"No.5 효과 약제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_029_UI"금종 결합제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_029_UI"음률 결합제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_030_UI"격음 결합제(2	의약품
+k�ʉC/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_030_UI"강심 결합제(2	의약품
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_01_UI"완전체가 아닌 에코(2랜덤 에코 아이템2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_014_UI"-5성 무기 보급 상자 · 동연 시리즈(2보급 패키지
+`���>/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_017_UI"낙음 은행(2재료
+rՉ�!@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"난해한 레시피(2임무 아이템
+�։�!G/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_007_1_UI"!마화 특제 식재료 패키지(2임무 아이템
+׉�!@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_007_UI" 코코 비법 「나한벽수」(2임무 아이템
+���H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_007_UI"여행자의 경험 지원(2보급 패키지
+���H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_008_UI"편행자의 경험 지원(2보급 패키지
+���H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_009_UI"정원사의 응소 지원(2보급 패키지
+���H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_010_UI"검은 꽃의 응소 지원(2보급 패키지
+���H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_011_UI"검은 꽃의 데이터 지원(2보급 패키지
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_051_UI"!북락 광야 낡은 데이터집(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI"!귀허항시 낡은 서적 잔본(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI""운릉 협곡 낡은 서적 잔본(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI""중부 평원 낡은 서적 잔본(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_051_UI"!울음새 늪 낡은 데이터집(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI""잡석 고지 낡은 서적 잔본(2임무 아이템
+����"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_051_UI"!호환 산맥 낡은 데이터집(2임무 아이템
+����":/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_pad_UI"5『소형 수송기 추락 사고 조사 보고서』(2임무 아이템
+����"H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"*『빗속의 열차에 대한 그리움』(2임무 아이템
+����"H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"『금주의 민속 기록』(2임무 아이템
+����"H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"8『황룡 경내의 신기한 야수에 대한 기록』(2임무 아이템
+y���":/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_pad_UI" 『무무물류, 우~우~우!』(2임무 아이템
+����"H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI"『서명 없는 편지』(2임무 아이템
+r���":/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_pad_UI"『이상한 메시지』(2임무 아이템
+���!(2임무 아이템
+~���"E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_051_UI"암흑 밀림 데이터집(2임무 아이템
+����":/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_pad_UI"'『암흑 밀림 탐사소대 일지』(2임무 아이템
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$회절 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$인멸 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$용융 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$응결 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$기류 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$전도 보호 스프레이 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!회절 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!인멸 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!용융 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!응결 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!기류 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"!전도 이중 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$초급 흡입식 소생제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$중급 흡입식 소생제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$고급 흡입식 소생제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$특급 흡입식 소생제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"초급 영양제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"중급 영양제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"고급 영양제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"특급 영양제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$초급 에너지 주머니 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$중급 에너지 주머니 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$고급 에너지 주머니 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"$특급 에너지 주머니 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"초음속 용제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"트레이너 용제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"현악 용제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"드러머 용제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"No.5 효과 약제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"금종 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"음률 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"격음 결합제 배합법(2합성 배합법 - 제약
+��׏C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI"강심 결합제 배합법(2합성 배합법 - 제약
+g���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_032_UI"베이스액(2	가공품
+d���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_033_UI"	촉매액(2	가공품
+k���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_034_UI"강력 촉매액(2	가공품
+d���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_035_UI"	안정제(2	가공품
+k���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_036_UI"강력 안정제(2	가공품
+k���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_037_UI"특급 참기름(2	가공품
+n���&C/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_038_UI"초특급 참기름(2	가공품
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_05_UI"$완전체가 아닌 야밤의 서리(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_06_UI"'완전체가 아닌 솟구치는 용암(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_07_UI"*완전체가 아닌 울려퍼지는 뇌음(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_08_UI"'완전체가 아닌 스쳐가는 바람(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_09_UI"!완전체가 아닌 빛나는 별(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_10_UI"(완전체가 아닌 빛을 삼키는 해(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_11_UI"$완전체가 아닌 찬란한 광휘(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_12_UI"'완전체가 아닌 떠오르는 구름(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_13_UI"'완전체가 아닌 끊임없는 잔향(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_05_UI"$완전체가 아닌 야밤의 서리(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_06_UI"'완전체가 아닌 솟구치는 용암(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_07_UI"*완전체가 아닌 울려퍼지는 뇌음(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_08_UI"'완전체가 아닌 스쳐가는 바람(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_09_UI"!완전체가 아닌 빛나는 별(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_10_UI"(완전체가 아닌 빛을 삼키는 해(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_11_UI"$완전체가 아닌 찬란한 광휘(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_12_UI"'완전체가 아닌 떠오르는 구름(2랜덤 에코 아이템2보급 패키지
+����>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shlb_13_UI"'완전체가 아닌 끊임없는 잔향(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"&쉐이핑 가능한 거랑급 에코 I(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"'쉐이핑 가능한 거랑급 에코 II(2랜덤 에코 아이템2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"&원·프로젝트 무기 보급 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"&원·프로젝트 무기 보급 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"&원·프로젝트 무기 보급 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"&원·프로젝트 무기 보급 상자(2보급 패키지
+dA/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_6_UI"탐사 포인트(2	활약도
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI"(「야귀의 혼」 무기 보급 상자(2보급 패키지
+c���:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_029_UI"작령 열매(2돌파 재료
+h´�:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_030_UI"클레로덴드론(2돌파 재료
+f̴�:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_031_UI"은빛 스노드롭 꽃(2약재
+m���:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_032_UI"용비늘 정석(2무기 제작 재료
+`��>/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_007_UI"정풍의 종(2재료
+x���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI"별을 옮기는 키(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_070_UI"『거문고의 이야기』(2임무 아이템
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_02_UI"$완전체가 아닌 노도급 에코(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"$완전체가 아닌 거랑급 에코(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_04_UI"$완전체가 아닌 경파급 에코(2랜덤 에코 아이템2보급 패키지
+x〹!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_041_UI"초음파 펄스 칩(2임무 아이템
+j���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_073_UI"심핵(2임무 아이템
+oH/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon02_UI"준비 포인트(2특수 화폐
+lH/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon04_UI"경영 자금(2특수 화폐
+eH/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon07_UI"소원(2특수 화폐
+eH/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon05_UI"인기(2특수 화폐
+oH/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon08_UI"달맞이 초롱(2특수 화폐
+l��!=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_02_UI"태워버린 꿈(2임무 아이템
+l��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_038_UI"스노드롭 꽃 과자(2요리
+p��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_039_UI"매운 작령 고기 볶음(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_040_UI"영춘 과자(2요리
+p��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_041_UI"매운 치령 고기 볶음(2요리
+y���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"!스노드롭 꽃 과자 레시피(2	레시피
+}���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"%매운 작령 고기 볶음 레시피(2	레시피
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI"무무 코인(2	소모품
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1607_UI"!금희의 울림 주파수 대역(2울림 주파수 대역
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1608_UI"!장리의 울림 주파수 대역(2울림 주파수 대역
+|���@/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_005_UI"사계의 단검(2스킬 업그레이드 재료
+q���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_072_UI"유리 등잔(2임무 아이템
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_071_UI"장리의 편지(2임무 아이템
+t���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_074_UI"깃털 장식품(2임무 아이템
+{���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_074_UI"심화 깃털 장식품(2임무 아이템
+j䀹!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_075_UI"비늘(2임무 아이템
+m���!:/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_029_UI"작령 열매 샘플(2임무 아이템
+�؉�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_027_UI"2『세컨드 솔라리스』  게임 리딤 코드(2임무 아이템
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_01_UI"완전체가 아닌 에코(2랜덤 에코 아이템2보급 패키지
+gִ�E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_084_UI"신성(2돌파 재료
+rഖE/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_085_UI"바다 패모(2	식재료2약재
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"&쉐이핑 가능한 거랑급 에코 I(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"'쉐이핑 가능한 거랑급 에코 II(2랜덤 에코 아이템2보급 패키지
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yml_02_UI"결정 단체(2	소모품
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI"!활성화된 별을 옮기는 키(2임무 아이템
+lF/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Circumfluence01_UI"조수의 페이지(2	활약도
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI"꿈의 조각(2	소모품
+sֆ>/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_jzmy_02_UI"조수의 감사 쿠폰(2튜닝 증명서
+����O/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1014_UI"이상 · 음험한 백로(2이상 에코
+����D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1610_UI"$상리요의 울림 주파수 대역(2울림 주파수 대역
+�ѵ�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1609_UI"!절지의 울림 주파수 대역(2울림 주파수 대역
+{���!H/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon03_UI"진천뢰(震天雷)(2임무 아이템
+}���!H/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon01_UI"「속세의 풍경」(2임무 아이템
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI"꿈의 조각(2	소모품
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI"꿈의 조각(2	소모품
+��J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_12_UI"변정의 금빛 지원(2보급 패키지
+��J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_13_UI"변정의 주조 지원(2보급 패키지
+{���!H/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon03_UI"진천뢰(震天雷)(2임무 아이템
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_042_UI"	오믈렛(2요리
+j��&H/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon06_UI"단란 과자(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_046_UI"월양 경단(2요리
+^��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_045_UI"	향월주(2요리
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_043_UI"야채 오믈렛(2요리
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_044_UI"사탕 화덕빵(2요리
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"오믈렛 레시피(2	레시피
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"단란 과자 레시피(2	레시피
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"월양 경단 레시피(2	레시피
+k���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"향월주 레시피(2	레시피
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_078_UI"『연화장원 산거도』(2임무 아이템
+�ى�!H/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon01_UI"절지가 그린 부채(명칭)(2임무 아이템
+���P/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_1_UI"이상 · 무망자(2이상 에코
+�ҵ�D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1612_UI"!유호의 울림 주파수 대역(2울림 주파수 대역
+���D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1611_UI"$파수인의 울림 주파수 대역(2울림 주파수 대역
+x���B/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_015_UI"고요한 위상(2공명자 돌파 재료
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"+『검은 해안 포털 조사 보고서』(2임무 아이템
+���J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI"검은 꽃의 금빛 지원(2보급 패키지
+���J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_18_UI"검은 꽃의 주조 지원(2보급 패키지
+{��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_082_UI"혼란과 분쟁의 꿈(2임무 아이템
+���!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_083_UI"존재할 자격이 없는 꿈(2임무 아이템
+����!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_033_UI"/검은 해안 직원 포럼의 데이터 로그(2임무 아이템
+g��;/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Tape_UI"쿠 · 카스 게임팩(2재료
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_015_UI"응소 초급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_016_UI"응소 중급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_017_UI"응소 고급 물자 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_018_UI"응소 특급 물자 상자(2보급 패키지
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_047_UI"해안 수프(2요리
+e��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_049_UI"원앙화 전병(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_051_UI"설회 수프(2요리
+b��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_050_UI"쌍화 전병(2요리
+o���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"해안 수프 레시피(2	레시피
+r���&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI"원앙화 전병 레시피(2	레시피
+w��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_049_UI"잊혀진 검은꽃(2임무 아이템
+oE/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_086_UI"별의 조각(2이벤트 아이템
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_003_UI"!다크 블레이자 무기 상자(2보급 패키지
+�쀹!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_090_UI"스텔라 매트릭스 코어(2임무 아이템
+p퀹!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_088_UI"「뭇별」(2임무 아이템
+�!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_087_UI""쿠 · 머니 특선 개인 소장(2임무 아이템
+o!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_089_UI"번호 HL-1(2임무 아이템
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"!완전체인 거랑급 에코 Ⅰ(2랜덤 에코 아이템2보급 패키지
+����@/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_shzxlb_03_UI"!완전체인 거랑급 에코 Ⅱ(2랜덤 에코 아이템2보급 패키지
+t���!B/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_039_UI"「순진한 꿈」(2임무 아이템
+����!@/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_023_UI"$「용기의 보검」 보물 지도(2임무 아이템
+o���!@/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_024_UI"희망의 화관(2임무 아이템
+k��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_004_UI"고추기름 닭무침(2요리
+���D/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1613_UI"!루미의 울림 주파수 대역(2울림 주파수 대역
+]=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_03_UI"탐험 후기(2	소모품
+h��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_052_UI"아이스 포도차(2요리
+l��&@/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_053_UI"월주 매운 고기면(2요리
+t�³!H/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_1_UI"택배 상자(2임무 아이템
+bԌ�=/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_04_UI"풍성한 만찬(2재료
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_024_UI"중급 습유물  밀봉 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_025_UI"고급 습유물 밀봉 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_026_UI"특급 습유물 밀봉 상자(2보급 패키지
+����H/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_023_UI"초급 습유물 밀봉 상자(2보급 패키지
+���J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI")각성 패키지(예약 구매 패키지)(2보급 패키지
+x��J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI"각성 패키지(2보급 패키지
+t��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_096_UI"손상된 사진(2임무 아이템
+t��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_096_UI"손상된 사진(2임무 아이템
+}��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_098_UI"「꽃소녀」의 팔찌(2임무 아이템
+t��!E/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_098_UI"그녀의 팔찌(2임무 아이템
+��J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI"모험 지원 패키지(2보급 패키지
+���J/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI"추천 모험 지원 패키지(2보급 패키지
