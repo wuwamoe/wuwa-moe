@@ -103,3 +103,49 @@
 .dark .mac-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #64748b; /* dark:slate-500 */
 }
+
+/* NProgress */
+/* #nprogress {
+  --nprogress-color: hsl(var(--foreground) / 0.8);
+  --nprogress-shadow: hsl(var(--foreground));
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: var(--nprogress-color);
+  height: 2px;
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 8px var(--nprogress-shadow),
+    0 0 4px var(--nprogress-shadow);
+}
+
+#nprogress .bar {
+  transition: background-color 0.3s ease;
+} */
+#nprogress {
+  --nprogress-color: hsl(var(--primary) / 0.8);
+  --nprogress-shadow: hsl(var(--primary));
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: var(--nprogress-color) !important;
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 10px var(--nprogress-shadow),
+    0 0 5px var(--nprogress-shadow);
+}
+
+#nprogress .spinner-icon {
+  border-top-color: var(--nprogress-shadow);
+  border-left-color: var(--nprogress-shadow);
+}
+
+#nprogress .bar {
+  transition: background-color 0.3s ease;
+}

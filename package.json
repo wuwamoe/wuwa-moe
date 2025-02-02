@@ -44,7 +44,9 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@types/nprogress": "^0.2.3",
 		"axios": "^1.7.9",
+		"nprogress": "^0.2.0",
 		"svelte-5-french-toast": "^2.0.4",
 		"svelte-i18n": "^4.0.1",
 		"ts-proto": "^2.6.1"
