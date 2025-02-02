@@ -20,18 +20,17 @@
     <h1 class="mb-4 text-4xl font-bold">{$_('page.home')}</h1>
   </header>
   <main>
-    <h2 class="text-2xl mb-2">{$_('home.game-info')}</h2>
+    <h2 class="mb-2 text-2xl">{$_('home.game-info')}</h2>
     <div class="flex flex-row gap-2">
-      <div
+      <a
         role="button"
         tabindex="0"
-        onclick={() => goto("/items")}
-        onkeydown={(e) => e.key === 'Enter' && goto(`/items`)}
+        href={`/items`}
         class="flex h-64 w-64 select-none flex-col items-center justify-center rounded-md border border-border bg-background shadow-sm hover:bg-accent hover:text-accent-foreground"
       >
-        <MaterialSymbolsMoneyBag class="w-12 h-12 mb-2"/>
-        <div class="text-xl">{$_("page.items")}</div>
-      </div>
+        <MaterialSymbolsMoneyBag class="mb-2 h-12 w-12" />
+        <div class="text-xl">{$_('page.items')}</div>
+      </a>
     </div>
   </main>
 </BodyWrapper>
