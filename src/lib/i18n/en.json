@@ -1,6 +1,11 @@
 {
-    "page": {
-        "home": "home",
-        "items": "items"
-    }
+  "page": {
+    "home": "Home",
+    "items": "Items",
+    "item_detail": "Detail"
+  },
+  "itemdetail": {
+    "basic": "Info",
+    "access": "Source"
+  }
 }

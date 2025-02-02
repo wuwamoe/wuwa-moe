@@ -1,6 +1,11 @@
 {
-    "page": {
-        "home": "홈",
-        "items": "아이템 목록"
-    }
+  "page": {
+    "home": "홈",
+    "items": "아이템 목록",
+    "item_detail": "아이템 상세"
+  },
+  "itemdetail": {
+    "basic": "기본 정보",
+    "access": "획득 경로"
+  }
 }
