@@ -9,7 +9,7 @@
 
   let { data }: PageProps = $props();
   const item = data.data;
-  console.log(item);
+  // console.log(item);
 </script>
 
 <BodyWrapper>
