@@ -1,5 +1,5 @@
 import { ItemDto } from '$lib/proto/protoc/ItemDto';
-import type { PageLoad } from './$types';
+import type { EntryGenerator, PageLoad } from './$types';
 
 export const load: PageLoad = async ({ params, fetch }) => {
   const data = await fetch(
@@ -8,10 +8,14 @@ export const load: PageLoad = async ({ params, fetch }) => {
     { method: 'GET', headers: { 'Content-Type': 'application/protobuf' } }
   );
   if (!data.ok) {
-    throw new Error('Error retrieving file')
+    throw new Error('Error retrieving file');
   }
   const arrayBuffer = await data.arrayBuffer();
   const array = new Uint8Array(arrayBuffer);
 
   return { data: ItemDto.decode(array) };
+};
+
+export const entries: EntryGenerator = () => {
+  return [{ id: '1' }];
 };

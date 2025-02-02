@@ -15,13 +15,13 @@ const config = {
       pages: 'build',
       assets: 'build',
       fallback: '200.html',
-      precompress: false
+      precompress: false,
     }),
     prerender: {
       handleHttpError: ({ path }) => {
         if (path.startsWith('/')) return;
         throw new Error('Invalid path');
-      }
+      },
     },
     alias: {
       '@/*': './path/to/lib/*',
