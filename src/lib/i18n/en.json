@@ -7,5 +7,14 @@
   "itemdetail": {
     "basic": "Info",
     "access": "Source"
+  },
+  "common": {
+    "alt_logo": "service logo",
+    "nav_home": "Home",
+    "nav_items": "Items",
+    "to-maps": "Try Maps"
+  },
+  "home": {
+    "game-info": "In-Game Info"
   }
 }

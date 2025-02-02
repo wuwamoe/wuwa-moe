@@ -42,7 +42,7 @@
     </div>
   </header>
   <main>
-    <div class="flex flex-col gap-4 md:flex-row mb-4">
+    <div class="mb-4 flex flex-col gap-4 md:flex-row">
       <img
         class="h-64 w-64 select-none rounded-md border border-border p-2"
         src={`${item.icon.substring(12)}.webp`}
@@ -51,16 +51,26 @@
       />
       <div>
         <h2 class="mb-2 text-2xl font-bold">{$_('itemdetail.basic')}</h2>
-        <div>{item.attributesDescription}</div>
-        <div>{item.bgDescription}</div>
+        <div class="flex flex-row flex-wrap mb-2 gap-1">
+          {#each item.showTypes as showType}
+            <div
+              class="rounded-full bg-secondary px-2 py-1 text-secondary-foreground text-sm"
+            >
+              {showType}
+            </div>
+          {/each}
+        </div>
+        <ul class="ms-2 list-disc ps-4">
+          <li>{item.attributesDescription}</li>
+          <li>{item.bgDescription}</li>
+        </ul>
       </div>
-      
     </div>
     <div>
       <h2 class="mb-2 text-2xl font-bold">{$_('itemdetail.access')}</h2>
       {#each item.itemAccess as itemAccess}
         <div
-          class="flex w-full max-w-64 flex-row rounded-md border border-input p-2 items-center mb-1"
+          class="mb-1 flex w-full max-w-64 flex-row items-center rounded-md border border-input p-2"
         >
           <MaterialSymbolsLocationOn /><span class="ms-2">{itemAccess}</span>
         </div>

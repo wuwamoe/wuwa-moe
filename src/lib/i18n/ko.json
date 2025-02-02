@@ -7,5 +7,14 @@
   "itemdetail": {
     "basic": "기본 정보",
     "access": "획득 경로"
+  },
+  "common": {
+    "alt_logo": "서비스 로고",
+    "nav_home": "홈",
+    "nav_items": "아이템",
+    "to-maps": "맵스로 이동"
+  },
+  "home": {
+    "game-info": "게임 정보"
   }
 }

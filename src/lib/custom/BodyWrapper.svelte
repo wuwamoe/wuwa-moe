@@ -2,6 +2,6 @@
   let { children } = $props();
 </script>
 
-<div class="p-8 max-w-6xl w-full mx-auto">
+<div class="px-8 pt-4 pb-8 max-w-[1536px] w-full mx-auto mac-scrollbar">
   {@render children?.()}
 </div>
